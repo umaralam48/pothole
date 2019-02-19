@@ -1,0 +1,16 @@
+Here are the results of your search:
+<ul>
+    <% locations.forEach( (location) => { %>
+
+    <li>
+        <i>
+            <%= location.latitude %></i>.
+        <br>
+
+        <%= location.longitude %>.
+
+    </li>
+
+    <%  }); %>
+
+</ul>
