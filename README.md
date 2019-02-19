@@ -1,7 +1,7 @@
 # Pothole Tracking and Mapping
-###Backend of the Pothole detection app.
+### Backend of the Pothole detection app.
 
-#####How to run this project:
+##### How to run this project:
 1. Clone this repository locally.
 1. Install [Node.js](https://nodejs.org/en/download/) if you don't have it already. 
 1. Install [MongoDB](https://www.mongodb.com/download-center/community) if you don't have it already.
